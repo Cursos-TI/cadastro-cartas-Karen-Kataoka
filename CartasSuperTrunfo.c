@@ -46,7 +46,7 @@ int pontosTuristicos2;
   scanf("%f", &area1);
 
   printf("Digite o PIB em bilhoes de reais:");
-  scanf("%f", /&pib1);
+  scanf("%f", &pib1);
 
   printf("Digite o numero de Pontos Turisticos:");
   scanf("%d", &pontosTuristicos1);
@@ -70,7 +70,7 @@ int pontosTuristicos2;
   scanf("%f", &area2);
 
   printf("Digite o PIB em bilhoes de reais:");
-  scanf("%f", /&pib2);
+  scanf("%f", &pib2);
 
   printf("Digite o numero de Pontos Turisticos:");
   scanf("%d", &pontosTuristicos2);
