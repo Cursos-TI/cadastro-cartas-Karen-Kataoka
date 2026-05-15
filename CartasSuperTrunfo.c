@@ -99,6 +99,7 @@ int pontosTuristicos2;
   printf("Area: %.2f Km²\n", area2);
   printf("PIB %.2f bilhoes de reais\n", pib2);
   printf("Pontos Turisticos: %d\n", pontosTuristicos2);
+  
 
 
 return 0;
